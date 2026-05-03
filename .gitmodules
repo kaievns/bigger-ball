@@ -1,0 +1,3 @@
+[submodule "pcbs/keypad"]
+	path = pcbs/keypad
+	url = git@github.com:kaievns/kailh-hotswap-keypad.git
