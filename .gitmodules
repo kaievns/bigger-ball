@@ -1,3 +1,6 @@
 [submodule "pcbs/keypad"]
 	path = pcbs/keypad
 	url = git@github.com:kaievns/kailh-hotswap-keypad.git
+[submodule "pcbs/sensor"]
+	path = pcbs/sensor
+	url = git@github.com:kaievns/little-eye.git
