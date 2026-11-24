@@ -1,2 +1,10 @@
 *.fcback
 *.fcbak
+*.ss.lock
+*.sc.lock
+*.sc.bck
+**/.DS_Store
+.DS_Store
+**/.sc.bak
+**/*.sc.bak
+**/*.sc.lck
